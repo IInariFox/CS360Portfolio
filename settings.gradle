@@ -1,0 +1,2 @@
+include ':Ethan Daugherty'
+rootProject.name = "InventoryControlApplication"
